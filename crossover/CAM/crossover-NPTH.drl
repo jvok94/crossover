@@ -1,0 +1,19 @@
+M48
+; DRILL file {KiCad (5.1.2)-2} date 23/07/2019 00:55:27
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2019-07-23T00:55:27+01:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,(5.1.2)-2
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC
+T1C3.500
+%
+G90
+G05
+T1
+X96.0Y4.0
+X4.0Y80.0
+X4.0Y4.0
+X96.0Y80.0
+T0
+M30
