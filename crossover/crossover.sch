@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:crossover-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -300,4 +300,48 @@ Text Notes 7200 3100 0    50   ~ 0
 Tweeter: Dayton ND20FA-6
 Text Notes 7200 4200 0    50   ~ 0
 Woofer: HiVi B4N
+$Comp
+L Mechanical:MountingHole NPTH1
+U 1 1 5D34B1E5
+P 750 6900
+F 0 "NPTH1" H 850 6946 50  0000 L CNN
+F 1 "3.5mm" H 850 6855 50  0000 L CNN
+F 2 "Crossover:NPTH_3.5mm_antipad_7mm" H 750 6900 50  0001 C CNN
+F 3 "~" H 750 6900 50  0001 C CNN
+	1    750  6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole NPTH2
+U 1 1 5D34BA53
+P 750 7100
+F 0 "NPTH2" H 850 7146 50  0000 L CNN
+F 1 "3.5mm" H 850 7055 50  0000 L CNN
+F 2 "Crossover:NPTH_3.5mm_antipad_7mm" H 750 7100 50  0001 C CNN
+F 3 "~" H 750 7100 50  0001 C CNN
+	1    750  7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole NPTH3
+U 1 1 5D34BB19
+P 750 7300
+F 0 "NPTH3" H 850 7346 50  0000 L CNN
+F 1 "3.5mm" H 850 7255 50  0000 L CNN
+F 2 "Crossover:NPTH_3.5mm_antipad_7mm" H 750 7300 50  0001 C CNN
+F 3 "~" H 750 7300 50  0001 C CNN
+	1    750  7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole NPTH4
+U 1 1 5D34BBDF
+P 750 7500
+F 0 "NPTH4" H 850 7546 50  0000 L CNN
+F 1 "3.5mm" H 850 7455 50  0000 L CNN
+F 2 "Crossover:NPTH_3.5mm_antipad_7mm" H 750 7500 50  0001 C CNN
+F 3 "~" H 750 7500 50  0001 C CNN
+	1    750  7500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
