@@ -1,4 +1,4 @@
-(module NPTH_3.5mm_antipad_7mm (layer F.Cu) (tedit 5D362E5A)
+(module NPTH_3.5mm_antipad_7mm (layer F.Cu) (tedit 5D364850)
   (fp_text reference REF** (at 0 4.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -6,5 +6,5 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask)
-    (solder_mask_margin 1.75) (clearance 1.75))
+    (clearance 1.75))
 )
